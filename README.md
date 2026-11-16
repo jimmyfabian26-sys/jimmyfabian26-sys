@@ -1,18 +1,40 @@
-# Hola, soy Jimmy Díaz
+<div align="center">
 
-Soy desarrollador de software en Ecuador. Creo aplicaciones web y de escritorio para simplificar tareas cotidianas, como gestionar órdenes de servicio, coordinar reservas y organizar información.
+<a href="https://jimmydiaz-portfolio.vercel.app">
+  <img src="https://jimmydiaz-portfolio.vercel.app/favicon.svg" width="96" height="96" alt="Logotipo personal de Jimmy Díaz" />
+</a>
 
-[Portafolio](https://jimmydiaz-portfolio.vercel.app) · [Sobre mí](https://jimmydiaz-portfolio.vercel.app/sobre-mi) · [Contacto](https://jimmydiaz-portfolio.vercel.app/contacto)
+# Hola, soy Jimmy Díaz 👋
 
-## Proyectos destacados
+**Desarrollador de software en Ecuador**
 
-- [TechOrder](https://jimmydiaz-portfolio.vercel.app/proyectos/techorder) reúne órdenes, clientes e inventario para talleres de servicio técnico.
-- [SalonFlow AI](https://jimmydiaz-portfolio.vercel.app/proyectos/salonflow-ai) es una plataforma para gestionar reservas y clientes de salones, con un asistente virtual en desarrollo.
-- [PocketBank](https://jimmydiaz-portfolio.vercel.app/proyectos/pocketbank) explora una interfaz web para finanzas personales.
-- [AbarrotePOS](https://jimmydiaz-portfolio.vercel.app/proyectos/abarrotepos) explora una interfaz adaptable para puntos de venta.
+<p>
+  <a href="https://jimmydiaz-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portafolio-245CC7?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portafolio" /></a>
+  <a href="https://jimmydiaz-portfolio.vercel.app/sobre-mi"><img src="https://img.shields.io/badge/Sobre_m%C3%AD-6942BA?style=for-the-badge" alt="Sobre mí" /></a>
+  <a href="https://jimmydiaz-portfolio.vercel.app/contacto"><img src="https://img.shields.io/badge/Contacto-116B82?style=for-the-badge" alt="Contacto" /></a>
+</p>
 
-## Tecnologías
+</div>
 
-- **Web** · Next.js, React, TypeScript y Tailwind CSS
-- **Backend y datos** · Python, Django, Node.js, PostgreSQL y SQLite
-- **Escritorio** · Electron
+---
+
+## 💻 Sobre mí
+
+Creo aplicaciones web y de escritorio para simplificar tareas cotidianas, como gestionar órdenes de servicio, coordinar reservas y organizar información. Me gusta entender cómo trabaja quien va a usar una herramienta y diseñar la interfaz a partir de ese flujo.
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Qué resuelve |
+| --- | --- |
+| **[TechOrder](https://jimmydiaz-portfolio.vercel.app/proyectos/techorder)** | Reúne órdenes, clientes e inventario para talleres de servicio técnico. |
+| **[SalonFlow AI](https://jimmydiaz-portfolio.vercel.app/proyectos/salonflow-ai)** | Gestiona reservas y clientes de salones, con un asistente virtual en desarrollo. |
+| **[PocketBank](https://jimmydiaz-portfolio.vercel.app/proyectos/pocketbank)** | Explora una interfaz web para finanzas personales. |
+| **[AbarrotePOS](https://jimmydiaz-portfolio.vercel.app/proyectos/abarrotepos)** | Explora una interfaz adaptable para puntos de venta. |
+
+## 🛠️ Tecnologías
+
+| Área | Herramientas |
+| --- | --- |
+| **Web** | `Next.js` · `React` · `TypeScript` · `Tailwind CSS` |
+| **Backend y datos** | `Python` · `Django` · `Node.js` · `PostgreSQL` · `SQLite` |
+| **Escritorio** | `Electron` |
