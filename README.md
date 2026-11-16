@@ -26,10 +26,10 @@ Creo aplicaciones web y de escritorio para simplificar tareas cotidianas, como g
 
 | Proyecto | Qué resuelve |
 | --- | --- |
-| **[TechOrder](https://jimmydiaz-portfolio.vercel.app/proyectos/techorder)** | Reúne órdenes, clientes e inventario para talleres de servicio técnico. |
+| **[TechOrder](https://jimmydiaz-portfolio.vercel.app/proyectos/techorder)** | Full para servicio técnico, POS para ventas y caja, y Simplified para gestión de órdenes. |
 | **[SalonFlow AI](https://jimmydiaz-portfolio.vercel.app/proyectos/salonflow-ai)** | Gestiona reservas y clientes de salones, con un asistente virtual en desarrollo. |
-| **[PocketBank](https://jimmydiaz-portfolio.vercel.app/proyectos/pocketbank)** | Explora una interfaz web para finanzas personales. |
-| **[AbarrotePOS](https://jimmydiaz-portfolio.vercel.app/proyectos/abarrotepos)** | Explora una interfaz adaptable para puntos de venta. |
+| **[Finanzas Diarias](https://jimmydiaz-portfolio.vercel.app/proyectos/finanzas-diarias)** | App Android para registrar ingresos y gastos, controlar presupuestos y organizar ahorros. |
+| **[Folder Firewall Blocker Pro](https://jimmydiaz-portfolio.vercel.app/proyectos/folder-firewall-blocker-pro)** | Herramienta de Windows para revisar ejecutables y administrar sus reglas de acceso a la red. |
 
 ## 🛠️ Tecnologías
 
@@ -37,4 +37,5 @@ Creo aplicaciones web y de escritorio para simplificar tareas cotidianas, como g
 | --- | --- |
 | **Web** | ![Framework Next.js](https://img.shields.io/badge/Framework-Next.js-245CC7?style=flat) ![Interfaz React](https://img.shields.io/badge/UI-React-116B82?style=flat) ![Lenguaje TypeScript](https://img.shields.io/badge/Lenguaje-TypeScript-245CC7?style=flat) ![Estilos Tailwind CSS](https://img.shields.io/badge/Estilos-Tailwind_CSS-116B82?style=flat) |
 | **Backend y datos** | ![Lenguaje Python](https://img.shields.io/badge/Lenguaje-Python-245CC7?style=flat) ![Framework Django](https://img.shields.io/badge/Framework-Django-26733F?style=flat) ![Runtime Node.js](https://img.shields.io/badge/Runtime-Node.js-4C7511?style=flat) ![Base de datos PostgreSQL](https://img.shields.io/badge/SQL-PostgreSQL-365783?style=flat) ![Base de datos SQLite](https://img.shields.io/badge/SQL-SQLite-A64820?style=flat) |
-| **Escritorio** | ![Framework Electron](https://img.shields.io/badge/Framework-Electron-6942BA?style=flat) |
+| **Android** | ![Framework Flutter](https://img.shields.io/badge/Framework-Flutter-245CC7?style=flat) ![Lenguaje Dart](https://img.shields.io/badge/Lenguaje-Dart-116B82?style=flat) |
+| **Escritorio** | ![Framework Electron](https://img.shields.io/badge/Framework-Electron-6942BA?style=flat) ![Interfaz PySide6](https://img.shields.io/badge/Interfaz-PySide6-26733F?style=flat) |
