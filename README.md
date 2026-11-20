@@ -1,20 +1,26 @@
 <div align="center">
 
 <a href="https://jimmydiaz-portfolio.vercel.app">
-  <img src="https://jimmydiaz-portfolio.vercel.app/favicon.svg" width="92" height="92" alt="Identidad de J.D DEV" />
+  <img src="https://jimmydiaz-portfolio.vercel.app/favicon.svg" width="108" alt="Logotipo J.D DEV" />
 </a>
 
 # J.D DEV · Jimmy Díaz
 
-**Desarrollador de software · Web, escritorio, Android e IA**
+### Desarrollo de software · Web, escritorio, Android e IA
 
 *Creo herramientas útiles, interfaces cuidadas y proyectos que evolucionan del prototipo al producto.*
 
 <p>
-  <a href="https://jimmydiaz-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portafolio-Visitar-6557D6?style=for-the-badge&logo=vercel&logoColor=white" alt="Abrir portafolio" /></a>
-  <a href="https://jimmydiaz-portfolio.vercel.app/proyectos"><img src="https://img.shields.io/badge/Proyectos-Explorar-087EA4?style=for-the-badge&logo=github&logoColor=white" alt="Explorar proyectos" /></a>
-  <a href="https://jimmydiaz-portfolio.vercel.app/contacto"><img src="https://img.shields.io/badge/Contacto-Hablemos-21867A?style=for-the-badge&logo=gmail&logoColor=white" alt="Ir a contacto" /></a>
+  <a href="https://jimmydiaz-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTAFOLIO-VISITAR-6557D6?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar portafolio" /></a>
 </p>
+<p>
+  <a href="https://jimmydiaz-portfolio.vercel.app/proyectos"><img src="https://img.shields.io/badge/PROYECTOS-EXPLORAR-087EA4?style=for-the-badge&logo=github&logoColor=white" alt="Explorar proyectos" /></a>
+</p>
+<p>
+  <a href="https://jimmydiaz-portfolio.vercel.app/contacto"><img src="https://img.shields.io/badge/CONTACTO-HABLEMOS-21867A?style=for-the-badge&logo=gmail&logoColor=white" alt="Abrir contacto" /></a>
+</p>
+
+**Lenguajes y herramientas**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -26,6 +32,16 @@
 </div>
 
 ---
+
+
+## En breve
+
+| Lo que desarrollo | Mi enfoque |
+| :--- | :--- |
+| **Web** | Interfaces, portafolios y aplicaciones con React y Next.js. |
+| **Escritorio** | Herramientas para Windows con Python y Electron. |
+| **Android** | Aplicaciones móviles con Flutter y Dart. |
+| **Automatización e IA** | Scripts y asistentes para procesos y negocios. |
 
 ## Sobre mí
 
